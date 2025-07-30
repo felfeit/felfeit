@@ -6,7 +6,7 @@
 - 🛠️ Right now, I'm diving deep into the Spring & Svelte frameworks!
 
 ### ⚡ Skills
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,dart,html,css,js,bootstrap,php,react,postgresql,mysql,supabase,firebase,figma,&theme=dark&perline=5)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,dart,html,css,js,bootstrap,php,react,postgresql,mysql,supabase,firebase,figma&theme=dark)
 
 ### 🌐 Connect with me
 ![https://www.instagram.com/aryadzkr/](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
